@@ -2,20 +2,20 @@
   "test": {
     "count": 12,
     "data": [
-      "id": 1;
-      "categoryName": "Test 1";
-      "iconImage": "Test 1";
-      "displayPosition": 1;
-      "isOrigin": true;
-      "language": "en";
-      "createdAt": "2020";
-      "updatedAt": "2020";
-      "deletedAt": "2020";
+      "id": 1,
+      "categoryName": "Test 1",
+      "iconImage": "Test 1",
+      "displayPosition": 1,
+      "isOrigin": true,
+      "language": "en",
+      "createdAt": "2020",
+      "updatedAt": "2020",
+      "deletedAt": "2020",
       "images": [
-        "imagePath": "test";
-        "imageDescription": "test";
-        "isOrigin": true;
-        "language": "en";
+        "imagePath": "test",
+        "imageDescription": "test",
+        "isOrigin": true,
+        "language": "en"
       ]
     ]
   }
