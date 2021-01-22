@@ -6,8 +6,8 @@
         "id": 1,
         "categoryName": "Test 1",
         "iconImage": "Test 1",
-        "displayPosition": 1,
-        "isOrigin": true,
+        "displayPosition": "1",
+        "isOrigin": "true",
         "language": "en",
         "createdAt": "2020",
         "updatedAt": "2020",
@@ -16,7 +16,7 @@
           {
             "imagePath": "test",
             "imageDescription": "test",
-            "isOrigin": true,
+            "isOrigin": "true",
             "language": "en"
           }
         ]
